@@ -4,7 +4,7 @@
 ![JonStewart](./JS1.jpg)
 
 
-As you continue on your coding journey, it is critical for you to build up on your ability to learn new things. Remember, the languages and frameworks that we use are constantly updating -  being able to adapt to change is going to be critical for success in this field.
+As you continue on your coding journey, it is so important for you to build up on your ability to learn new things. Remember, the languages and frameworks that we use are constantly updating -  being able to adapt to change is going to be critical for success in this field.
 
 For this activity, lets take a few code challenges that we are familiar with in Javascript, and try them out in our newest language, Python
 
